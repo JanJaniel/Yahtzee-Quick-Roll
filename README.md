@@ -1,12 +1,12 @@
 
 ## Introduction
 
-This game was inspired by a fun evening with friends playing the traditional Yahtzee game. The goal was to recreate the classic game in Java while beeing more "extreme" and fast-paced.
+This game was inspired by a fun evening with friends playing the traditional Yahtzee game. The goal was to recreate the classic game in Java while beeing more fast-paced.
 
 
 ## Game Overview
 
-Extreme Yahtzee follows the standard Yahtzee rules, where players roll dices to make certain combinations and score points. However, this version introduces an element of speed.
+It follows the standard Yahtzee rules, where players roll dices to make certain combinations and score points. However, this version introduces an element of speed.
 
 
 ## Key Features
